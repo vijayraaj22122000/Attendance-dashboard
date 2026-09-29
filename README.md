@@ -1,8 +1,6 @@
 # 🎓 Student Attendance & Performance Dashboard (Power BI)
 
-A Power BI dashboard that tracks student attendance and academic performance across classes, sections, and subjects. Built as a submission project, modeled on the layout style of the [ICC Cricket Analysis Dashboard](https://github.com/HarishCSE10/ICC-Cricket-Analysis-Dashboard-Power-BI).
-
----
+A Power BI dashboard that tracks student attendance and academic performance across classes, sections, and subjects. 
 
 ## 📌 Project Overview
 
