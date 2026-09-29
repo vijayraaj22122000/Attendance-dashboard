@@ -115,6 +115,4 @@ CALCULATE(
 
 ---
 
-## 👤 Author
 
-Student project — built with step-by-step guidance while learning Power BI.
